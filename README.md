@@ -2,7 +2,7 @@
 
 ## Introduction 
 
-Hello! As part of our Certified Summer Program, we were tasked with a group name called 'Andrew NG' in honor of the computer scientist, and technology entrepreneur. We were free to choose our own datasets and do some anaysis using Machine Learning algorithms.
+Hello! As part of our Certified Summer Program, we were tasked with a group name called 'Andrew NG' in honor of the computer scientist, and technology entrepreneur. We were free to choose our datasets and do some analysis using Machine Learning algorithms.
 
 ## Group Members
 
@@ -14,8 +14,8 @@ Hello! As part of our Certified Summer Program, we were tasked with a group name
 
 ## Problem Statement
 
-- Classifying Imbalanced Education Loan Dataset in order to give better prediction probability of  sanctioning the loan when applying H1-B1 Visa in USA.
-- ‘Accuracy' is not a good measure for evaluating the performance of the classifiers (Accuracy Paradox); and generalisation being a big challenge for such a dataset other parameters have been considered to classify the data in a much better format.
+- Classifying Imbalanced Education Loan Dataset to give better prediction probability of sanctioning the loan when applying for H1-B1 Visa in the USA.
+- ‘Accuracy' is not a good measure for evaluating the performance of the classifiers (Accuracy Paradox), and generalization being a big challenge for such a dataset other parameters have been considered to classify the data in a much better format.
 
 ## Datasets
 
@@ -49,7 +49,10 @@ Further analysis are recorded in our presentation.
 
 1. Our code can be found in this python notebook: [Education Loan](https://github.com/annie0sc/education-loan-aiet/blob/main/EducationLoan_Final.ipynb)
 1. The presentation can be found here for detailed analysis results: [Presentation](https://github.com/annie0sc/education-loan-aiet/blob/main/AIET_Final_Project.pptx)
-1. [trainData.csv](https://github.com/annie0sc/education-loan-aiet/blob/main/trainData.csv)
-1. [testData.csv](https://github.com/annie0sc/education-loan-aiet/blob/main/testData.csv)
-1. [h1trainData.csv](https://github.com/annie0sc/education-loan-aiet/blob/main/h1trainData.csv)
-1. [h1testData.csv](https://github.com/annie0sc/education-loan-aiet/blob/main/h1testData.csv)
+
+Datasets:
+
+3. [trainData.csv](https://github.com/annie0sc/education-loan-aiet/blob/main/trainData.csv)
+4. [testData.csv](https://github.com/annie0sc/education-loan-aiet/blob/main/testData.csv)
+5. [h1trainData.csv](https://github.com/annie0sc/education-loan-aiet/blob/main/h1trainData.csv)
+6. [h1testData.csv](https://github.com/annie0sc/education-loan-aiet/blob/main/h1testData.csv)
