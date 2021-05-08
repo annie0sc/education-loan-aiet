@@ -32,6 +32,24 @@ We used *Naïve Bayes Classifier* and *K-fold Cross Validation* on the datasets 
 
 ## Results
 
+The table below is a comparison of all the AUCs calculated by changing the max_depth or the scale_pos_weight.
 
+| Sl.No. | scale_pos_weight | max_depth | AUC |
+|---|---|---|---|
+| 1 | 1 | 7 | 0.602 |
+| 2 | 1.18 x ratio | 7 | 0.754 |
+| 3 | ratio | 7 | 0.754 |
+| 4 | ratio | 5 | 0.752 |
+| 5 | ratio | 20 | 0.758 |
+**ratio = (no. of inputs in class 0) / (no. of inputs in class 1)**
 
+Further analysis are recorded in our presentation.
 
+## Links
+
+1. Our code can be found in this python notebook: [Education Loan](https://github.com/annie0sc/education-loan-aiet/blob/main/EducationLoan_Final.ipynb)
+1. The presentation can be found here for detailed analysis results: [Presentation](https://github.com/annie0sc/education-loan-aiet/blob/main/AIET_Final_Project.pptx)
+1. [trainData.csv](https://github.com/annie0sc/education-loan-aiet/blob/main/trainData.csv)
+1. [testData.csv](https://github.com/annie0sc/education-loan-aiet/blob/main/testData.csv)
+1. [h1trainData.csv](https://github.com/annie0sc/education-loan-aiet/blob/main/h1trainData.csv)
+1. [h1testData.csv](https://github.com/annie0sc/education-loan-aiet/blob/main/h1testData.csv)
