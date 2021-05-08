@@ -41,6 +41,7 @@ The table below is a comparison of all the AUCs calculated by changing the max_d
 | 3 | ratio | 7 | 0.754 |
 | 4 | ratio | 5 | 0.752 |
 | 5 | ratio | 20 | 0.758 |
+
 **ratio = (no. of inputs in class 0) / (no. of inputs in class 1)**
 
 Further analysis are recorded in our presentation.
